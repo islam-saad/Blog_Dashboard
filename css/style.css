@@ -1,0 +1,17 @@
+@media (max-width: 576px) {
+    .mbs-10 {
+        margin-bottom: 1rem;
+    }
+    .overflow {
+        overflow: hidden;
+    }
+    .navbar {
+        padding: 10px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .mbs-10 {
+        margin-bottom: 1rem;
+    }
+}
